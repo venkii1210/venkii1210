@@ -81,4 +81,21 @@ An electronics project exploring sensor integration, motion monitoring and GPS t
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/VyankateshKamble/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoCo## Hi there 👋
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:venkiikamble@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>📧 Email: venkiikamble@gmail.com
+
+💼 LinkedIn: "Vyankatesh Kamble" (https://www.linkedin.com/in/VyankateshKamble/)
+
+🐙 GitHub: "@venkii1210" (https://github.com/venkii1210)
+
+---
+
+<p align="center">
+  <b>⚡ CODE. CONNECT. CREATE. INNOVATE. ⚡</b>
+  <br/>
+  <i>"Building tomorrow with today's ideas."</i>
+</p>
