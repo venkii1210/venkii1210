@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=VYANKATESH%20KAMBLE&fontColor=fff&fontSize=50&animation=fadeIn" alt="Vyankatesh's Banner" />
+</p>
 ⚡ VYANKATESH KAMBLE
 
 <p align="center">
