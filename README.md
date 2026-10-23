@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=VYANKATESH%20KAMBLE&fontColor=fff&fontSize=50&animation=fadeIn" alt="Vyankatesh's Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F7FF,50:7B2CBF,100:000000&height=220&section=header&text=VYANKATESH%20KAMBLE&fontSize=48&animation=twinkling&fontColor=ffffff&desc=FULL%20STACK%20%7C%20EMBEDDED%20SYSTEMS%20ENGINEER&descAlignY=62&descSize=18&fontAlignY=38" width="100%" />
 </p>
 ⚡ VYANKATESH KAMBLE
 
